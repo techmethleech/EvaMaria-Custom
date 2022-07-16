@@ -1,6 +1,7 @@
 class script(object):
-    START_TXT = """<b>HELLO {}🙋‍♂️,</b>
-<b>MY NAME IS <a href=https://t.me/{}>{}</a>,</b>
+    START_TXT = """<b>Hello {}🙋‍♂️,</b>
+<b>My Name Is <a href=https://t.me/{}>{}</a>,</b>
+
 <b>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter Bot In Your Group ..</b>
 
 <b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓</b>
